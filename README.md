@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning control theory,ROS, ROS2, Reinforcement Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: **dinhngoctuan6789@gmail.com**
-- 🌱 My Home Page: **![Dinh Ngoc Tuan]https://tuanrobotics.github.io/**
+- 🌱 My Home Page: **[Dinh Ngoc Tuan](https://tuanrobotics.github.io/)**
 
 <!---
 TuanRobotics/TuanRobotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
